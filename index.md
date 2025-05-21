@@ -11,3 +11,6 @@ Just adding the exact image from the tutorial this time. Last time I tried to us
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
