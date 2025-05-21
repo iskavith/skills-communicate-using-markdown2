@@ -7,3 +7,7 @@ This is a description of what I have changed. I added three headers in descendin
 Just adding the exact image from the tutorial this time. Last time I tried to use another image I found online and it did not work. 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
